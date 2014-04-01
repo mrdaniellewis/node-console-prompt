@@ -1,0 +1,4 @@
+{ 
+	"name" : "consoleprompt",
+	"main" : "./lib/consoleprompt.js" 
+}
