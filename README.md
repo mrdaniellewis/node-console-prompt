@@ -1,5 +1,6 @@
-# Prompt for the console
+# Prompt
 
+Prompt the user for information at the console.
 
 ```javascript
 var prompt = require('consoleprompt');
