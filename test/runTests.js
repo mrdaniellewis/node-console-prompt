@@ -26,4 +26,17 @@ prompt( style.yellow('Text\n> ') )
 		function(e) {
 			console.log( style.red('Error'), e );
 		}
+	)
+	.then( 
+		function() {
+			return prompt( style.yellow('Test again\n> '), true );
+		}
+	)
+	.then( 
+		function(value) {
+			console.log( style.green('Got value:'), value );
+		},
+		function(e) {
+			console.log( style.red('Error'), e );
+		}
 	);
