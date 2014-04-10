@@ -29,7 +29,7 @@ prompt( style.yellow('Text\n> ') )
 	)
 	.then( 
 		function() {
-			return prompt( style.yellow('Test again\n> '), true );
+			return prompt( style.yellow('Test again\n> ')  );
 		}
 	)
 	.then( 
