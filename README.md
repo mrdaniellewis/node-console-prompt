@@ -14,8 +14,8 @@ prompt( 'password\n> ', 'hidden' )
 
 `prompt` takes two parameters:
 
-* `message` - _String_, text to display on the screen
-* `hidden`: _Truthy_, if truthy the user's input is replaced with stars.
+* `message` - _String_ - text to display on the screen
+* `hidden` - _Truthy_ - if truthy the user's input is replaced with stars.
 
 ## Installation
 
@@ -32,7 +32,7 @@ Avoid.
 
 ### Windows
 
-In Windows backspacing in a hidden field won't update on screen correctly unless
+In Windows, backspacing in a hidden field won't update on screen correctly unless
 you are using a terminal supporting
 [ANSI escape sequences](http://en.wikipedia.org/wiki/ANSI_escape_code).
 
