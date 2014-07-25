@@ -9,5 +9,11 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/mrdaniellewis/node-console-prompt"
+	},
+	"dependencies": {
+		"promise-polyfill": "0.1"
+	},
+	"devDependencies": {
+		"console-style": "*"
 	}
 }
