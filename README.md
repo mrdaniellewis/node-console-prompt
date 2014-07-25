@@ -1,6 +1,6 @@
-# Prompt
+# Console prompt
 
-Prompts the user for information at the console.
+Prompts the user for information at the console in a nodejs programme.
 
 Returns a [Promise](http://www.html5rocks.com/en/tutorials/es6/promises/).
 
