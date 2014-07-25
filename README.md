@@ -14,8 +14,8 @@ prompt( 'password\n> ', 'hidden' )
 
 `prompt` takes two parameters:
 
-* **prompt**: String, text to display on the screen
-* **hidden**: Truthy, if true the users input is replaced with stars.
+* `message` - _String_, text to display on the screen
+* `hidden`: _Truthy_, if truthy the user's input is replaced with stars.
 
 ## Installation
 
