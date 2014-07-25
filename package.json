@@ -1,5 +1,6 @@
 { 
-	"name" : "console-prompt",
+	"name": "console-prompt",
+	"verson": "0.1.0",
 	"main" : "./lib/console-prompt.js",
 	"description": "Prompt for input at the console",
 	"keywords": "terminal",
