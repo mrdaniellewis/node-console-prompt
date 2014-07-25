@@ -1,4 +1,13 @@
 { 
-	"name" : "consoleprompt",
-	"main" : "./lib/consoleprompt.js" 
+	"name" : "console-prompt",
+	"main" : "./lib/console-prompt.js",
+	"description": "Prompt for input at the console",
+	"keywords": "terminal",
+	"main": "./lib/console-prompt.js",
+	"license": "MIT",
+	"author": "Daniel Lewis",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mrdaniellewis/node-console-prompt"
+	}
 }

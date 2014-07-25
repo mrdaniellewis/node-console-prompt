@@ -2,8 +2,8 @@
  *	Test console prompt
  */
 
-var prompt = require('consoleprompt');
-var style = require('styleconsole');
+var prompt = require('console-prompt');
+var style = require('console-style');
 
 prompt( style.yellow('Text\n> ') )
 	.then( 
