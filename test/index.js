@@ -1,8 +1,9 @@
 /**
  *	Test console prompt
+ *	Tests need to be run manually eg > node test
  */
 
-var prompt = require('console-prompt');
+var prompt = require('../');
 var style = require('console-style');
 
 prompt( style.yellow('Text\n> ') )
