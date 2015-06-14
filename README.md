@@ -1,5 +1,7 @@
 # Console prompt
 
+[![npm version](https://badge.fury.io/js/console-prompt.svg)](http://badge.fury.io/js/console-prompt)
+
 Prompts the user for information at the console in a nodejs programme.
 
 Returns a [Promise](http://www.html5rocks.com/en/tutorials/es6/promises/).
