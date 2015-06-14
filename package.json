@@ -12,7 +12,7 @@
 		"url": "https://github.com/mrdaniellewis/node-console-prompt"
 	},
 	"dependencies": {
-		"promise-polyfill": "0.1"
+		"promise-polyfill": "*"
 	},
 	"devDependencies": {
 		"console-style": "*"
